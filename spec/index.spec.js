@@ -5,8 +5,8 @@ describe('Basic functionality tests', function () {
 
   beforeEach(function () {
     options = {
-      nodeModules: 'spec/fixtures',
-      pkgJson: 'spec/package.json'
+      nodeModules: './spec/fixtures',
+      pkgJson: './spec/package.json'
     }
   });
 

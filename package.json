@@ -1,6 +1,6 @@
 {
   "name": "main-npm-files",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Searches for static files in npm packages",
   "main": "index.js",
   "scripts": {
