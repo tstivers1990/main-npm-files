@@ -1,6 +1,6 @@
 {
   "name": "main-npm-files",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Searches for static files in npm packages",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,11 @@
   },
   "author": [
     "Lorenzo Vuur",
-    "Christian Kaisermann<christian@kaisermann.me>"
+    "Christian Kaisermann <christian@kaisermann.me>"
   ],
   "license": "MIT",
   "dependencies": {
     "glob": "^7.0.3",
-    "lodash": "^4.6.1",
     "minimatch": "^3.0.0"
   },
   "devDependencies": {
