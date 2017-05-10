@@ -6,16 +6,16 @@ balanced-match@^0.4.1:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-0.4.2.tgz#cb3f3e3c732dc0f01ee70b403f302e61d7709838"
 
-brace-expansion@^1.0.0:
-  version "1.1.6"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.6.tgz#7197d7eaa9b87e648390ea61fc66c84427420df9"
+brace-expansion@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.7.tgz#3effc3c50e000531fb720eaff80f0ae8ef23cf59"
   dependencies:
     balanced-match "^0.4.1"
     concat-map "0.0.1"
 
 coffee-script@>=1.0.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.11.1.tgz#bf1c47ad64443a0d95d12df2b147cc0a4daad6e9"
+  version "1.12.5"
+  resolved "https://registry.yarnpkg.com/coffee-script/-/coffee-script-1.12.5.tgz#809f4585419112bbfe46a073ad7543af18c27346"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -78,7 +78,7 @@ jasmine-growl-reporter@~0.0.2:
   dependencies:
     growl "~1.7.0"
 
-jasmine-node:
+jasmine-node@^1.14.5:
   version "1.14.5"
   resolved "https://registry.yarnpkg.com/jasmine-node/-/jasmine-node-1.14.5.tgz#18e8397b856924ee77003666c3731b5aea50c39d"
   dependencies:
@@ -116,10 +116,10 @@ minimatch@0.x, minimatch@~0.2.9:
     sigmund "~1.0.0"
 
 minimatch@^3.0.0, minimatch@^3.0.2:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.3.tgz#2a4e4090b96b2db06a9d7df01055a62a77c9b774"
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.0.4.tgz#5166e286457f03306064be5497e8dbb0c3d32083"
   dependencies:
-    brace-expansion "^1.0.0"
+    brace-expansion "^1.1.7"
 
 mkdirp@~0.3.5:
   version "0.3.5"
@@ -136,8 +136,8 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 requirejs@>=0.27.1:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.2.tgz#0eaa870d4c7db3b15dd1322e6b65b0388fc4b2c6"
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.3.tgz#aa59fd3a0287eaf407959a138228044b5dd6a6a3"
 
 sigmund@~1.0.0:
   version "1.0.1"
